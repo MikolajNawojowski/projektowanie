@@ -1,0 +1,1 @@
+/Library/PostgreSQL/10/bin/postgres "-D/Library/PostgreSQL/10/data"
