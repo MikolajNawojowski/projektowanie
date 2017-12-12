@@ -1,0 +1,16 @@
+
+[
+squid:S106";Replace this usage of System.out or System.err by a logger.(èË¯Ùıÿÿÿÿ8Ì·Š¡õ+
+Asquid:S1166"%Either log or rethrow this exception.(É®£8”‘Ÿ¡õ+
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(Ë€öÊ8“³á õ+
+Asquid:S1166"%Either log or rethrow this exception.(É®£8µ©ø õ+
+8squid:S2095"Close this "ResultSet".(Á–‡úÿÿÿÿ8ÎÜ”¡õ+
+asquid:S2259"ENullPointerException might be thrown as 'connection' is nullable here(ôêÂœ8õ‹¡õ+
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(ÓÒ“Ë8”‘Ÿ¡õ+
+8squid:S2095"Close this "Statement".(é°Áµşÿÿÿÿ8£¤ü õ+
+1squid:S1220""Move this file to a named package.
+U
+squid:S106";Replace this usage of System.out or System.err by a logger.(ú¨ŞK8Æ›ù õ+
+[
+squid:S106";Replace this usage of System.out or System.err by a logger.(Ì·–¿ÿÿÿÿÿ8Õéâ õ+
