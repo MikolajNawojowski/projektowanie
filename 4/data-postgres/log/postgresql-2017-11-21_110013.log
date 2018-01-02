@@ -1,0 +1,160 @@
+2017-11-21 11:00:13.457 CET [52227] LOG:  database system was shut down at 2017-11-21 11:00:12 CET
+2017-11-21 11:00:13.463 CET [52222] LOG:  database system is ready to accept connections
+2017-11-21 11:06:12.582 CET [53044] FATAL:  password authentication failed for user "mnawojow"
+2017-11-21 11:06:12.582 CET [53044] DETAIL:  Role "mnawojow" does not exist.
+	Connection matched pg_hba.conf line 80: "local   all             all                                     md5"
+2017-11-21 11:06:12.582 CET [53044] LOG:  could not send data to client: Broken pipe
+2017-11-21 11:06:15.657 CET [53049] FATAL:  password authentication failed for user "mnawojow"
+2017-11-21 11:06:15.657 CET [53049] DETAIL:  Role "mnawojow" does not exist.
+	Connection matched pg_hba.conf line 80: "local   all             all                                     md5"
+2017-11-21 11:06:19.715 CET [53057] FATAL:  password authentication failed for user "mnawojow"
+2017-11-21 11:06:19.715 CET [53057] DETAIL:  Role "mnawojow" does not exist.
+	Connection matched pg_hba.conf line 80: "local   all             all                                     md5"
+2017-11-21 11:06:19.715 CET [53057] LOG:  could not send data to client: Broken pipe
+2017-11-21 11:06:23.689 CET [53064] FATAL:  password authentication failed for user "mnawojow"
+2017-11-21 11:06:23.689 CET [53064] DETAIL:  Role "mnawojow" does not exist.
+	Connection matched pg_hba.conf line 80: "local   all             all                                     md5"
+2017-11-21 11:06:24.666 CET [53069] FATAL:  password authentication failed for user "mnawojow"
+2017-11-21 11:06:24.666 CET [53069] DETAIL:  Role "mnawojow" does not exist.
+	Connection matched pg_hba.conf line 80: "local   all             all                                     md5"
+2017-11-21 11:06:24.666 CET [53069] LOG:  could not send data to client: Broken pipe
+2017-11-21 11:06:28.833 CET [53076] FATAL:  password authentication failed for user "mnawojow"
+2017-11-21 11:06:28.833 CET [53076] DETAIL:  Role "mnawojow" does not exist.
+	Connection matched pg_hba.conf line 80: "local   all             all                                     md5"
+2017-11-21 11:06:29.667 CET [53078] FATAL:  password authentication failed for user "mnawojow"
+2017-11-21 11:06:29.667 CET [53078] DETAIL:  Role "mnawojow" does not exist.
+	Connection matched pg_hba.conf line 80: "local   all             all                                     md5"
+2017-11-21 11:06:29.667 CET [53078] LOG:  could not send data to client: Broken pipe
+2017-11-21 11:06:32.097 CET [53082] FATAL:  password authentication failed for user "mnawojow"
+2017-11-21 11:06:32.097 CET [53082] DETAIL:  Role "mnawojow" does not exist.
+	Connection matched pg_hba.conf line 80: "local   all             all                                     md5"
+2017-11-21 11:15:26.169 CET [53899] FATAL:  password authentication failed for user "mnawojow"
+2017-11-21 11:15:26.169 CET [53899] DETAIL:  Role "mnawojow" does not exist.
+	Connection matched pg_hba.conf line 82: "host    all             all             127.0.0.1/32            md5"
+2017-11-21 11:15:32.452 CET [53909] FATAL:  password authentication failed for user "mnawojow"
+2017-11-21 11:15:32.452 CET [53909] DETAIL:  Role "mnawojow" does not exist.
+	Connection matched pg_hba.conf line 82: "host    all             all             127.0.0.1/32            md5"
+2017-11-21 11:15:57.708 CET [53946] FATAL:  password authentication failed for user "root"
+2017-11-21 11:15:57.708 CET [53946] DETAIL:  Role "root" does not exist.
+	Connection matched pg_hba.conf line 82: "host    all             all             127.0.0.1/32            md5"
+2017-11-21 11:16:38.538 CET [54011] FATAL:  password authentication failed for user "mnawojow"
+2017-11-21 11:16:38.538 CET [54011] DETAIL:  Role "mnawojow" does not exist.
+	Connection matched pg_hba.conf line 80: "local   all             all                                     md5"
+2017-11-21 11:16:38.538 CET [54011] LOG:  could not send data to client: Broken pipe
+2017-11-21 11:16:43.097 CET [54018] FATAL:  password authentication failed for user "mnawojow"
+2017-11-21 11:16:43.097 CET [54018] DETAIL:  Role "mnawojow" does not exist.
+	Connection matched pg_hba.conf line 80: "local   all             all                                     md5"
+2017-11-21 11:17:02.965 CET [54053] FATAL:  password authentication failed for user "mnawojow"
+2017-11-21 11:17:02.965 CET [54053] DETAIL:  Role "mnawojow" does not exist.
+	Connection matched pg_hba.conf line 82: "host    all             all             127.0.0.1/32            md5"
+2017-11-21 11:17:08.451 CET [54065] FATAL:  password authentication failed for user "mnawojow"
+2017-11-21 11:17:08.451 CET [54065] DETAIL:  Role "mnawojow" does not exist.
+	Connection matched pg_hba.conf line 82: "host    all             all             127.0.0.1/32            md5"
+2017-11-21 11:17:13.104 CET [54072] FATAL:  password authentication failed for user "mnawojow"
+2017-11-21 11:17:13.104 CET [54072] DETAIL:  Role "mnawojow" does not exist.
+	Connection matched pg_hba.conf line 82: "host    all             all             127.0.0.1/32            md5"
+2017-11-21 11:17:28.056 CET [54096] FATAL:  password authentication failed for user "mnawojow"
+2017-11-21 11:17:28.056 CET [54096] DETAIL:  Role "mnawojow" does not exist.
+	Connection matched pg_hba.conf line 80: "local   all             all                                     md5"
+2017-11-21 11:17:28.056 CET [54096] LOG:  could not send data to client: Broken pipe
+2017-11-21 11:17:30.313 CET [54100] FATAL:  password authentication failed for user "mnawojow"
+2017-11-21 11:17:30.313 CET [54100] DETAIL:  Role "mnawojow" does not exist.
+	Connection matched pg_hba.conf line 80: "local   all             all                                     md5"
+2017-11-21 11:18:44.366 CET [54219] FATAL:  password authentication failed for user "root"
+2017-11-21 11:18:44.366 CET [54219] DETAIL:  Role "root" does not exist.
+	Connection matched pg_hba.conf line 82: "host    all             all             127.0.0.1/32            md5"
+2017-11-21 11:19:49.603 CET [54149] ERROR:  syntax error at or near "ls" at character 1
+2017-11-21 11:19:49.603 CET [54149] STATEMENT:  ls
+	select current_user
+	select current_user;
+2017-11-21 11:19:55.802 CET [54149] ERROR:  syntax error at or near "ls" at character 1
+2017-11-21 11:19:55.802 CET [54149] STATEMENT:  ls
+	select current_user
+	select current_user;
+2017-11-21 11:29:55.556 CET [53327] ERROR:  syntax error at or near ";" at character 72
+2017-11-21 11:29:55.556 CET [53327] STATEMENT:  ALTER TABLE public.students
+	    ADD COLUMN id integer NOT NULL DEFAULT ;
+	
+	
+2017-11-21 11:30:04.276 CET [53327] ERROR:  syntax error at or near ";" at character 72
+2017-11-21 11:30:04.276 CET [53327] STATEMENT:  ALTER TABLE public.students
+	    ADD COLUMN id integer NOT NULL DEFAULT ;
+	
+	
+2017-11-21 11:30:12.494 CET [53327] ERROR:  syntax error at or near ";" at character 63
+2017-11-21 11:30:12.494 CET [53327] STATEMENT:  ALTER TABLE public.students
+	    ADD COLUMN id integer DEFAULT ;
+	
+	
+2017-11-21 11:30:26.880 CET [53327] ERROR:  syntax error at or near ";" at character 71
+2017-11-21 11:30:26.880 CET [53327] STATEMENT:  ALTER TABLE public.students
+	    ADD COLUMN student_id integer DEFAULT ;
+	
+	
+2017-11-21 11:33:12.483 CET [55541] FATAL:  password authentication failed for user "mnawojow"
+2017-11-21 11:33:12.483 CET [55541] DETAIL:  Role "mnawojow" does not exist.
+	Connection matched pg_hba.conf line 82: "host    all             all             127.0.0.1/32            md5"
+2017-11-21 11:37:56.252 CET [55980] ERROR:  column "student_name" of relation "students" does not exist at character 23
+2017-11-21 11:37:56.252 CET [55980] STATEMENT:  INSERT INTO students (student_name, student_score) VALUES ('Mikolaj', '35')
+2017-11-21 11:38:21.946 CET [56024] ERROR:  column "student_score" of relation "students" does not exist at character 37
+2017-11-21 11:38:21.946 CET [56024] STATEMENT:  INSERT INTO students (student_name, student_score) VALUES ('Mikolaj', '35')
+2017-11-21 11:40:15.942 CET [53327] ERROR:  column "id" contains null values
+2017-11-21 11:40:15.942 CET [53327] STATEMENT:  ALTER TABLE public.students
+	    ALTER COLUMN id SET DEFAULT 1;
+	
+	ALTER TABLE public.students
+	    ALTER COLUMN id SET NOT NULL;
+2017-11-21 11:42:10.349 CET [53327] ERROR:  column "id" contains null values
+2017-11-21 11:42:10.349 CET [53327] STATEMENT:  ALTER TABLE public.students
+	    ALTER COLUMN id TYPE integer ;
+	ALTER TABLE public.students
+	    ADD PRIMARY KEY (id);
+2017-11-21 11:44:46.481 CET [56616] ERROR:  invalid input syntax for integer: "null" at character 33
+2017-11-21 11:44:46.481 CET [56616] STATEMENT:  DELETE FROM students WHERE id = 'null'
+2017-11-21 11:45:00.256 CET [56641] ERROR:  null value in column "id" violates not-null constraint
+2017-11-21 11:45:00.256 CET [56641] DETAIL:  Failing row contains (null, Mikolaj, 35).
+2017-11-21 11:45:00.256 CET [56641] STATEMENT:  INSERT INTO students (student_name, student_score) VALUES ('Mikolaj', '35')
+2017-11-21 11:45:21.126 CET [53327] ERROR:  column "id" is in a primary key
+2017-11-21 11:45:21.126 CET [53327] STATEMENT:  ALTER TABLE public.students
+	    ALTER COLUMN id DROP NOT NULL;
+2017-11-21 11:45:32.597 CET [53327] ERROR:  column "id" is in a primary key
+2017-11-21 11:45:32.597 CET [53327] STATEMENT:  ALTER TABLE public.students
+	    ALTER COLUMN id TYPE integer ;
+	ALTER TABLE public.students
+	    ALTER COLUMN id DROP NOT NULL;
+2017-11-21 11:45:53.432 CET [53327] ERROR:  column "id" is in a primary key
+2017-11-21 11:45:53.432 CET [53327] STATEMENT:  ALTER TABLE public.students
+	    ALTER COLUMN id TYPE integer ;
+	ALTER TABLE public.students
+	    ALTER COLUMN id DROP NOT NULL;
+2017-11-21 11:46:01.812 CET [53327] ERROR:  column "id" is in a primary key
+2017-11-21 11:46:01.812 CET [53327] STATEMENT:  ALTER TABLE public.students
+	    ALTER COLUMN id TYPE integer ;
+	ALTER TABLE public.students
+	    ALTER COLUMN id DROP NOT NULL;
+2017-11-21 11:46:57.170 CET [56818] ERROR:  null value in column "id" violates not-null constraint
+2017-11-21 11:46:57.170 CET [56818] DETAIL:  Failing row contains (null, Mikolaj, 35).
+2017-11-21 11:46:57.170 CET [56818] STATEMENT:  INSERT INTO students (student_name, student_score) VALUES ('Mikolaj', '35')
+2017-11-21 11:50:49.031 CET [57170] ERROR:  null value in column "id" violates not-null constraint
+2017-11-21 11:50:49.031 CET [57170] DETAIL:  Failing row contains (null, Mikolaj, 35).
+2017-11-21 11:50:49.031 CET [57170] STATEMENT:  INSERT INTO students (student_name, student_score) VALUES ('Mikolaj', '35')
+2017-11-21 11:52:29.663 CET [57329] ERROR:  duplicate key value violates unique constraint "students_pkey"
+2017-11-21 11:52:29.663 CET [57329] DETAIL:  Key (id)=(1) already exists.
+2017-11-21 11:52:29.663 CET [57329] STATEMENT:  INSERT INTO students (student_name, student_score) VALUES ('Mikolaj', '35')
+2017-11-21 11:55:14.635 CET [53327] ERROR:  syntax error at or near ";" at character 123
+2017-11-21 11:55:14.635 CET [53327] STATEMENT:  CREATE SEQUENCE public.student_inc
+	    INCREMENT 1
+	    START 1
+	    MINVALUE 1
+	    MAXVALUE 99999999999999999999
+	    CACHE ;
+	
+2017-11-21 11:57:04.703 CET [53327] ERROR:  column "student_inc" does not exist
+2017-11-21 11:57:04.703 CET [53327] STATEMENT:  ALTER TABLE public.students
+	    ALTER COLUMN id SET DEFAULT student_inc;
+2017-11-21 11:57:20.661 CET [53327] ERROR:  column "student_inc" does not exist
+2017-11-21 11:57:20.661 CET [53327] STATEMENT:  ALTER TABLE public.students
+	    ALTER COLUMN id SET DEFAULT nextval(student_inc);
+2017-11-21 11:57:58.192 CET [57825] ERROR:  duplicate key value violates unique constraint "students_pkey"
+2017-11-21 11:57:58.192 CET [57825] DETAIL:  Key (id)=(1) already exists.
+2017-11-21 11:57:58.192 CET [57825] STATEMENT:  INSERT INTO students (student_name, student_score) VALUES ('Mikolaj', '35')
