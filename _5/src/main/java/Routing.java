@@ -77,22 +77,48 @@ public class Routing {
                     }
                 }
                 else if (t.getRequestMethod().equals("POST")) {
-                    for (String key : parameters.keySet())
-                        try {
-                            databaseHandler.update(Integer.parseInt(key), Integer.parseInt(parameters.get(key).toString()));
+                    Iterator entries = parameters.entrySet().iterator();
+                    while (entries.hasNext()) {
+                        Map.Entry entry = (Map.Entry) entries.next();
+                        String key = (String) entry.getKey();
+                        List<String> values = (List<String>) entry.getValue();
+                        for (String argument : values) {
+                            try {
+                                databaseHandler.update(Integer.parseInt(key),Integer.parseInt(argument));
+                            } catch (Exception e) {
+                                System.out.println(e);
+                            }
                         }
-                        catch (Exception e) {
-                            System.out.println(e);
-                        }
+                    }
                 }
                 else if (t.getRequestMethod().equals("PUT")) {
-                    for (String key : parameters.keySet()) {
-                        databaseHandler.insert(key, Integer.parseInt(parameters.get(key).toString()));
+                    Iterator entries = parameters.entrySet().iterator();
+                    while (entries.hasNext()) {
+                        Map.Entry entry = (Map.Entry) entries.next();
+                        String key = (String) entry.getKey();
+                        List<String> values = (List<String>) entry.getValue();
+                        for (String argument : values) {
+                            try {
+                                databaseHandler.insert(key, Integer.parseInt(argument));
+                            } catch (Exception e) {
+                                System.out.println(e);
+                            }
+                        }
                     }
                 }
                 else if (t.getRequestMethod().equals("DELETE")) {
-                    for (String key : parameters.keySet()) {
-                        databaseHandler.delete(Integer.parseInt(parameters.get(key).toString()));
+                    Iterator entries = parameters.entrySet().iterator();
+                    while (entries.hasNext()) {
+                        Map.Entry entry = (Map.Entry) entries.next();
+                        String key = (String) entry.getKey();
+                        List<String> values = (List<String>) entry.getValue();
+                        for (String argument : values) {
+                            try {
+                                databaseHandler.delete(Integer.parseInt(argument));
+                            } catch (Exception e) {
+                                System.out.println(e);
+                            }
+                        }
                     }
                 }
                 t.sendResponseHeaders(200, response.toString().length());
